@@ -1,0 +1,17 @@
+{
+  "short_name": "M Phone",
+  "name": "M Phone Shop",
+  "description": "M Phone Shop - Partner Exclusive Portal",
+  "icons": [
+    {
+      "src": "app_logo.jpg",
+      "type": "image/jpeg",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#141414",
+  "theme_color": "#00B140",
+  "display": "standalone",
+  "orientation": "portrait"
+}

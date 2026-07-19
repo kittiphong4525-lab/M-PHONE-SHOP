@@ -1,0 +1,8 @@
+{
+  "name": "Remix: M Phone Shop Member Portal",
+  "description": "A premium, secure e-commerce and order management portal for verified members and administrators of M Phone Shop, featuring detailed product specification management, order tracking, and estimated profit calculators in a high-contrast green and black theme.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
